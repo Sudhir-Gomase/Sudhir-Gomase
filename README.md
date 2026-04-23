@@ -1,79 +1,101 @@
-# 💼 Aadit Jha - Full-Stack Developer  
+# 💼 Sudhir Gomase - Backend Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadit-jha-8b8288255)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaditjha8657@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadit-001)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhirgomase2109@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sudhir-Gomase)
 
 ## 👨‍💻 About Me
-Full-Stack Developer specializing in building scalable web applications with modern technologies. Currently focused on developing full-stack solutions while expanding expertise in Machine Learning and AI integration.
+
+Backend Developer with **2.8 years of experience** building and scaling production-grade backend systems using **Node.js, Fastify, and SQL**. Experienced in designing modular architectures, optimizing performance with **Redis caching**, and deploying Dockerized services on **AWS**. Proven track record of delivering secure, high-performance APIs for enterprise HR and analytics platforms.
 
 ## 🚀 Technical Expertise
 
-### **Core Technologies**
+### **Backend Development**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### **Frontend**
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-
-### **Backend & Databases**
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### **Databases & ORMs**
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+### **Architecture & API**
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=apachekafka&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### **Machine Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aadit-001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### **AI Tools**
+![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ## 📂 Featured Projects
 
-### **E-Commerce Platform** 
-- **Technologies**: React, Node.js, Express, MongoDB, Firebase, Tailwind CSS
-- **Features**: Full-stack solution with authentication, payment processing, admin dashboard
-- **Tools**: Git, GitHub, Figma, Vercel
+### **Survey Management Portal** — WE-Matter
+- **Tech**: Node.js, Fastify, SQL, Redis, Docker, AWS
+- **Highlights**:
+  - Architected scalable backend with modular design; improved system interoperability by **40%**
+  - Integrated Redis caching, reducing API response time by **30%**
+  - Reduced runtime errors by **35%** and code complexity by **25%**
+  - Built multilingual support, conditional logic branching, and dynamic question types
+  - Integrated **SAP SuccessFactors** for secure HRIS data exchange
 
-### **VortexAI** (In Development)
-- **Description**: Full-stack application with AI/ML integration
-- **Focus**: Machine learning implementation in production environments
+### **Agile Performance System (APS)** — WE-Matter
+- **Tech**: Node.js, Prisma, Sequelize, SQL, Swagger
+- **Highlights**:
+  - Backend services for KPI tracking, goal management, and employee evaluations
+  - Implemented **Role-Based Access Control (RBAC)** and secure API endpoints
+  - API documentation with Swagger for cross-team collaboration
+
+### **Analytics Dashboard Module** — WE-Matter
+- **Tech**: Node.js, Fastify, SQL, Knex.js
+- **Highlights**:
+  - Real-time engagement scoring, action plan tracking, and personalized insights
+  - Optimized SQL queries with Knex.js for high-load analytics
+
+### **LimeSurvey Custom Application** — TheOther 2 Thirds Consulting
+- **Tech**: PHP, SQL, LimeSurvey
+- **Highlights**:
+  - Reduced application load time by **20%**
+  - Reduced production bugs by **20%** with 95% adherence to coding best practices
+
+## 🎓 Education
+
+| Degree | Institution | CGPA | Year |
+|--------|-------------|------|------|
+| MCA | Sardar Patel Institute of Technology, Mumbai | 9.00 | 2022–2023 |
+| BSc IT | Patkar Varde College, Mumbai University | 8.65 | 2018–2021 |
 
 ## 📫 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadit-jha-8b8288255)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaditjha8657@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/aadit.3198)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhirgomase2109@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sudhir-Gomase)
+
 </div>
 
 ---
 
 <div align="center">
 
-⭐️ *Open to collaborating on innovative projects and technical challenges*  
-🚀 *Building the future, one line of code at a time*
+⭐️ *Open to collaborating on scalable backend systems and enterprise integrations*  
+🚀 *Building performant, production-grade APIs — one optimized query at a time*
 
 </div>
